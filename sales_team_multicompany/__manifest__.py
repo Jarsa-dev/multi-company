@@ -11,7 +11,6 @@
     'author': 'Akretion',
     'license': 'AGPL-3',
     'application': False,
-    'installable': False,
     'depends': [
         'sale',
     ],
